@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Goblin_Stand_Down"
+    Image="@asset=Module_Gameplay:Image_Goblin"
+    AnimationFrames="1"
+    AnimationCycle="true"
+	AnimationTime="1.0" />
+

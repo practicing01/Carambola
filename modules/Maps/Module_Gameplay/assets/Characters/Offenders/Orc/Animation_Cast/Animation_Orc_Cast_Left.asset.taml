@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Orc_Cast_Left"
+    Image="@asset=Module_Gameplay:Image_Orc_Cast"
+    AnimationFrames="9 10 11"
+    AnimationCycle="false"
+	AnimationTime="1.0" />
+

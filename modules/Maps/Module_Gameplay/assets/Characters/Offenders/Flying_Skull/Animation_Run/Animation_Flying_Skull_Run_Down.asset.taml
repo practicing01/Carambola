@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Flying_Skull_Run_Down"
+    Image="@asset=Module_Gameplay:Image_Flying_Skull"
+    AnimationFrames="0 1 2"
+    AnimationCycle="true"
+	AnimationTime="1.0" />
+

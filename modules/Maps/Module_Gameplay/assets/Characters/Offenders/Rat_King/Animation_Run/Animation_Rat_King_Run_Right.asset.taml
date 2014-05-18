@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Rat_King_Run_Right"
+    Image="@asset=Module_Gameplay:Image_Rat_King"
+    AnimationFrames="6 7 8"
+    AnimationCycle="true"
+	AnimationTime="1.0" />
+

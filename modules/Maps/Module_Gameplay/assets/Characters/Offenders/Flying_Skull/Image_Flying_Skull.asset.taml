@@ -1,0 +1,9 @@
+<ImageAsset
+    AssetName="Image_Flying_Skull"
+    ImageFile="Flying_Skull.png"
+    CellCountX="3"
+    CellCountY="4"
+    CellWidth="16"
+    CellHeight="26"
+    Optimal_Resolution="800 480"/>
+

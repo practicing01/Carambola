@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Orc_Attack_Down"
+    Image="@asset=Module_Gameplay:Image_Orc_Attack"
+    AnimationFrames="6 7 8"
+    AnimationCycle="false"
+	AnimationTime="1.0" />
+

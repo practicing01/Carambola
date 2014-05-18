@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Mushroom_Run_Up"
+    Image="@asset=Module_Gameplay:Image_Mushroom"
+    AnimationFrames="3 4 5"
+    AnimationCycle="true"
+	AnimationTime="1.0" />
+

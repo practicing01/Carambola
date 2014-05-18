@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Rock_Golem_Run_Down"
+    Image="@asset=Module_Gameplay:Image_Rock_Golem"
+    AnimationFrames="0 1 2"
+    AnimationCycle="true"
+	AnimationTime="1.0" />
+

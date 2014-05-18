@@ -1,0 +1,9 @@
+<ImageAsset
+    AssetName="Image_Mushroom"
+    ImageFile="Mushroom.png"
+    CellCountX="3"
+    CellCountY="4"
+    CellWidth="16"
+    CellHeight="16"
+    Optimal_Resolution="800 480"/>
+
